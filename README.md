@@ -1,0 +1,1 @@
+Built a Dividend Discount Model (DDM) in Python to analyze stock valuation, calculating key metrics like growth rate and cost of equity. Documented insights and outcomes to inform investment decisions.
